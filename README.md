@@ -1,10 +1,10 @@
-### Olá, me chamo Emerson de Baldi ! 
+# Olá, me chamo Emerson de Baldi ! 
 ## Bem vindo ao meu perfil GitHub 👋
 [![Github Emerson](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/debaldi)](https://github.com/debaldi)
 [![Linkedin Emerson](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersondebaldi/)](https://www.linkedin.com/in/emersondebaldi/)
 
-# Sou formado em Análises e Desenvolvimento de Sistemas pela Faculdade REGES (Rede Gonzaga de Ensino Superior).
-# Tenho alguns projetos já concluidos em HTML, CSS, PHP e DB MySql.
+### Sou formado em Análises e Desenvolvimento de Sistemas pela Faculdade REGES (Rede Gonzaga de Ensino Superior).
+### Tenho alguns projetos já concluidos em HTML, CSS, PHP e DB MySql.
 
 ### Ferramentas e Tecnologias 💻
 
